@@ -1,7 +1,7 @@
 
-# Vernan Seamless UI
+# EZ Works Assignment
 
-Seamless scroll, peach paper background, static sections (no dark areas, no homepage box).
+Seamless scroll, peach paper background, static sections.
 
 ## Run
 1. npm install
@@ -9,4 +9,3 @@ Seamless scroll, peach paper background, static sections (no dark areas, no home
 
 Opens at http://localhost:5173
 
-All sections flow together without gaps for a continuous handcrafted look.
