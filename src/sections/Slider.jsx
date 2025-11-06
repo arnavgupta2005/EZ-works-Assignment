@@ -1,0 +1,1 @@
+export default function Slider(){return(<div><h3 className='text-2xl mb-4 font-playfair'>Highlight Reel</h3><div className='bg-white rounded-lg shadow-md h-64 flex items-center justify-center'>Video Placeholder</div></div>)}

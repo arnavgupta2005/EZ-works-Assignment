@@ -1,0 +1,1 @@
+export default function Stats(){return(<div className='flex gap-6 justify-center'><div className='sticky'>85+<div>Projects</div></div><div className='sticky'>50+<div>Clients</div></div><div className='sticky'>10+<div>Years</div></div></div>)}

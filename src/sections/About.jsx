@@ -1,0 +1,1 @@
+export default function About(){return(<div className='two-col'><div className='left'><div className='bg-[#fff7ea] p-6 rounded-lg shadow-md'>About note / paper placeholder</div></div><div className='right'><h3 className='text-2xl font-playfair mb-2'>About Team</h3><p>Short text about the team and vision here.</p></div></div>)}

@@ -1,0 +1,1 @@
+export default function Footer(){return(<div className='text-center text-[#7a5b53]'>© Vernan — seamless UI</div>)}
